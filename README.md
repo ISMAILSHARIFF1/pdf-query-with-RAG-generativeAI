@@ -1,5 +1,5 @@
 # pdf-query-with-RAG-generativeAI
-Create a Vector Database from PDF, provide question and LLM answers using RAG technique
+An advanced application designed to answer questions based on PDF documents, which are indexed within a vector database. Leveraging Large Language Models (LLMs) with the Retrieval-Augmented Generation (RAG) technique, it generates precise and contextually rich responses.
 
 There are two Python applications in the two folders:
 1. PDF Index: this application uses streamlit to provide a  UI to upload a PDF document. This application creates a vector database from the text in the document and stores it in S3 in AWS. LLM is used to create the vector indexes.
