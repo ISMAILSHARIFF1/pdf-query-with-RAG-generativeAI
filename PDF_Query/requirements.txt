@@ -1,0 +1,8 @@
+streamlit
+langchain
+faiss-cpu
+boto3
+mlflow
+langchain_community
+langchain-aws
+ollama
