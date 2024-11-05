@@ -1,4 +1,4 @@
-# pdf-query-with-RAG-generativeAI
+# generativeAI-RAG-using-AWS-Bedrock
 An advanced application designed to answer questions based on PDF documents, which are indexed within a vector database. Leveraging Large Language Models (LLMs) with the Retrieval-Augmented Generation (RAG) technique, it generates precise and contextually rich responses.
 
 There are two Python applications in these folders:
